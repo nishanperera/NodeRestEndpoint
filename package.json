@@ -1,5 +1,5 @@
 {
-  "name": "RestEndPointUsingRestify",
+  "name": "NodeRestEndpoint",
   "version": "0.0.1",
   "description": "Rest endpoint using node and restfy",
   "main": "app.js",
