@@ -1,0 +1,27 @@
+{
+  "name": "RestEndPointUsingRestify",
+  "version": "0.0.1",
+  "description": "Rest endpoint using node and restfy",
+  "main": "app.js",
+  "dependencies": {
+    "restify": "~2.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishanperera/noderestify"
+  },
+  "keywords": [
+    "node",
+    "restify",
+    "sample"
+  ],
+  "author": "Nishan Perera",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nishanperera/noderestify/issues"
+  }
+}
